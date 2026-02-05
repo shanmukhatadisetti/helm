@@ -1,5 +1,5 @@
 apiVersion: v2
 name: nginx
 version: 1.0.0
-description: nginx description helm
+description: nginx description for helm
 appVersion: 1.0.1
