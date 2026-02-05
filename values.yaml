@@ -1,4 +1,4 @@
 deployment:
-  imageVersion: latest
+  imageVersion: alpine3.23-perl
 service:
   targetPort: 80
