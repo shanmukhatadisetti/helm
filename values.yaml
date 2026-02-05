@@ -1,0 +1,4 @@
+deployment:
+  imageVersion: latest
+Service:
+  targetPort: 80
